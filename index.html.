@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Student Management Portal | Home</title>
+</head>
+<body>
+  <header>
+    <h1>Student Management Portal</h1>
+    <nav>
+      <a href="index.html">Home</a> |
+      <a href="about.html">About</a> |
+      <a href="registration.html">Student Registration</a> |
+      <a href="courses.html">Courses</a> |
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+  <main>
+    <h2>Welcome</h2>
+    <p>Manage student information and explore courses through our portal.</p>
+  </main>
+  <footer><p>26CS102 — Foundation of Full Stack</p></footer>
+</body>
+</html>
